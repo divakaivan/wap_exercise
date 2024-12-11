@@ -11,3 +11,4 @@ Sources I learned Apache Iceberg and WAP from (and keep learning tbf):
 * [Creating a Local Data Lakehouse using Spark/Minio/Dremio/Nessie](https://www.linkedin.com/pulse/creating-local-data-lakehouse-using-alex-merced/)
 * [Streamlining Data Quality in Apache Iceberg with write-audit-publish & branching](https://www.dremio.com/blog/streamlining-data-quality-in-apache-iceberg-with-write-audit-publish-branching/)
 * [Apache Iceberg's docs on Branching and Tagging](https://iceberg.apache.org/docs/latest/branching/)
+* [Data Quality Fundamentals](https://learning.oreilly.com/library/view/data-quality-fundamentals/9781098112035/)
